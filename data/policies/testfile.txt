@@ -1,0 +1,5 @@
+1. Password Management:
+Employees must change passwords every 90 days. Passwords should be at least 12 characters and must include upper and lowercase letters, numbers, and symbols.
+
+2. Device Security:
+All company laptops must be encrypted. Screen locks must be enabled and auto-activate after 5 minutes of inactivity.
